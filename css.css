@@ -1,0 +1,61 @@
+.navbar
+{
+    background-image: linear-gradient(to left, #111d5e, #c70039);
+}
+#nav-bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    
+    
+}
+.navbar-brand img{
+    height: 50px;
+    padding-left: 20px;
+}
+
+.navbar-nav li{
+    padding: 0 10px;
+
+}
+.navbar-nav li a{
+    color: white !important;
+    font-weight: 600;
+    float: right;
+    text-align: left;
+}
+.fa-bars{
+    color: #fff;
+    font-size: 30px !important; 
+}
+.navbar-toggler{
+    outline: none !important;
+
+}
+.awal{
+    overflow: hidden;
+}
+.paris{
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.ndas{
+    text-align: center;
+}
+.texx{
+    text-align: center;
+}
+.bi-house{
+     color:white;
+    background-image: linear-gradient(to left, #111d5e, #c70039);
+}
+.bi-phone{
+    color:white;
+    background-image: linear-gradient(to left, #111d5e, #c70039);
+}
+.bi-envelope{
+    color:white;
+    background-image: linear-gradient(to left, #111d5e, #c70039);
+}
